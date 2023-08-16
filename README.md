@@ -53,4 +53,4 @@ To set the stage for this gaming spectacle:
 * Restore the gameplay's crescendo by invoking the 'Space' key.
 * Immerse yourself in the quest to dismantle all blocks, advancing through the levels toward triumph.
 
-Immerse yourself in this enchanting journey of **Arkanoid Adventure**—a harmonious symphony of classic gameplay and modern design principles. Unleash your skills, transcend levels, and bask in the euphoria of victory!
+Immerse yourself in this enchanting journey of **Arkanoid Adventure** a harmonious symphony of classic gameplay and modern design principles. Unleash your skills, transcend levels, and bask in the euphoria of victory!
