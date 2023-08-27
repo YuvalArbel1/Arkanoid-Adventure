@@ -1,6 +1,6 @@
 # Arkanoid Adventure
 
-![Arkanoid Adventure Banner](banner_image_url_here)
+![Arkanoid Adventure Banner](C:\Users\arbel\Desktop\arkonid\gif.gif)
 
 Welcome to the **Arkanoid Adventure** repository! This project was born from an engaging Object-Oriented Programming course at Bar Ilan University. Brace yourself for a thrilling rendition of the classic Arkanoid game, complete with multiple levels of increasing difficulty, all wrapped in a user-friendly GUI environment.
 
